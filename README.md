@@ -1,4 +1,4 @@
-# FSWD Library Relational Model
+# Epidemic Escapes - Online Bookstore Relational Model
 
 Relational model for a library website.
 
