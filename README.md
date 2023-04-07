@@ -1,4 +1,4 @@
-# Epidemic Escapes - Online Bookstore Relational Model
+# Online Bookstore Relational Model
 
 Relational model for a library website.
 
