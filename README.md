@@ -1,5 +1,5 @@
-# Epidemic Escapes - Online Bookstore Relational Model
+# E-Commerce Relational Model
 
-Relational model for a library website.
+Relational model for an e-commerce solution.
 
-![library relational model](./library-relational-model.png)
+![e-commerce relational model](./ecommerce-relational-model.png)
